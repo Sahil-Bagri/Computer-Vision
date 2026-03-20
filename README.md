@@ -6,7 +6,7 @@
 
 ## 🎯 Objectives
 
-Understand fundamental concepts of Computer Vision
+## Understand fundamental concepts of Computer Vision
 
 Implement real-world image processing techniques
 
