@@ -8,7 +8,7 @@
 
 ## Understand fundamental concepts of Computer Vision
 
-Implement real-world image processing techniques
+## Implement real-world image processing techniques
 
 Build hands-on projects to strengthen practical skills
 
