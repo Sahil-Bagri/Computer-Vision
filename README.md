@@ -1,10 +1,10 @@
 # 🚀 Computer Vision Repository
-#📌 Overview
-This repository contains a collection of Computer Vision projects and experiments implemented using Python. It focuses on building a strong foundation in image processing, feature extraction, and real-world vision applications.
+📌 Overview
+## This repository contains a collection of Computer Vision projects and experiments implemented using Python. It focuses on building a strong foundation in image processing, feature extraction, and real-world vision applications.
 
-The projects demonstrate practical implementations of core computer vision concepts using libraries like OpenCV, NumPy, and Matplotlib.
+## The ipynb files demonstrate practical implementations of core computer vision concepts using libraries like OpenCV, NumPy, and Matplotlib.
 
-🎯 Objectives
+## 🎯 Objectives
 
 Understand fundamental concepts of Computer Vision
 
