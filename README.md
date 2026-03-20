@@ -10,44 +10,42 @@
 
 ## Implement real-world image processing techniques
 
-Build hands-on projects to strengthen practical skills
+## Build hands-on projects to strengthen practical skills
 
-Explore applications like edge detection, filtering, and transformations
+## Explore applications like edge detection, filtering, and transformations
 
-🧠 Topics Covered
+## 🧠 Topics Covered
 
-Image Processing
+## Image Processing
 
-Edge Detection
+## Edge Detection
 
-Image Filtering
+## Image Filtering
 
-Feature Extraction
+## Feature Extraction
 
-Object Detection (basic)
+## Object Detection (basic)
 
-Color Space Transformations
+## Color Space Transformations
 
-Thresholding Techniques
+## Thresholding Techniques
 
-📂 Repository Structure
-Computer-Vision/
-│── notebooks/           # Jupyter notebooks with experiments
-│── images/              # Sample input images
-│── outputs/             # Result images
-│── scripts/             # Python scripts for CV tasks
-│── README.md            # Project documentation
+## 📂 Repository Structure
+## Computer-Vision/
+## │── notebooks/           # Jupyter notebooks with experiments
+## │── images/              # Sample input images
+## │── README.md            # Project documentation
 
-(Structure may vary slightly depending on files in the repo)
+## (Structure may vary slightly depending on files in the repo)
 
-⚙️ Tech Stack
+## ⚙️ Tech Stack
 
-Python 🐍
+## Python 🐍
 
-OpenCV 👁️
+## OpenCV 👁️
 
-NumPy 🔢
+## NumPy 🔢
 
-Matplotlib 📊
+## Matplotlib 📊
 
 Jupyter Notebook 📒
